@@ -1,3 +1,5 @@
+/* Este programa saca la CURP*/
+
 #include <string.h>
 #include <stdio.h>
 #include <conio.h>
